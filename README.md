@@ -1,2 +1,0 @@
-# crudApp
-Basic CRUD app
